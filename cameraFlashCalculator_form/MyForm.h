@@ -182,6 +182,7 @@ namespace cameraFlashCalculatorform {
 			this->Controls->Add(this->textBox_dist);
 			this->Controls->Add(this->button_calc);
 			this->Name = L"MyForm";
+			this->Text = L"cameraFlashCalculator";
 			this->Load += gcnew System::EventHandler(this, &MyForm::MyForm_Load);
 			this->ResumeLayout(false);
 			this->PerformLayout();
