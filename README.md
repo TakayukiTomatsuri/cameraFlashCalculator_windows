@@ -3,4 +3,6 @@
 
 撮影距離、ISO感度、F値を入力しボタンをおすと、フラッシュに設定すべきガイドナンバー（GN)が表示されます。
 
+VisualStudioでインポートしてビルドすると実行できます。
+
 ![screenshot1](/screenshot1.png)
